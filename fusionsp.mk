@@ -7,4 +7,4 @@ $(call inherit-product, vendor/fusion/config/nfc_enhanced.mk)
 $(call inherit-product, vendor/fusion/config/common_phone.mk)
 
 PRODUCT_DEVICE := kltevzw
-PRODUCT_NAME := fusionsp_kltevzw
+PRODUCT_NAME := kltevzw
