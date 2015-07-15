@@ -23,4 +23,4 @@ PRODUCT_NAME := full_kltevzw
 PRODUCT_DEVICE := kltevzw
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
-PRODUCT_MODEL := kltevzw
+PRODUCT_MODEL := Samsung Galaxy S5
